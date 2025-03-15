@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning new framework such as NextJS, Vue3, Typescript and Tailwind CSS
 - 💞️ I’m looking to collaborate on Website development
-- 📫 How to reach me: hoirna.sen.01@gmail.com  
+- 📫 How to reach me: hoirna.seng.01@gmail.com  
 - 😄 Pronouns: HAHHAHAHA
 - ⚡ Fun fact: I'm a chill guy
 
