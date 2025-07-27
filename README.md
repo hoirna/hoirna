@@ -2,13 +2,6 @@
 
 Welcome to my digital workspace! I'm **Seng Hoirna**, a passionate **Full Stack Developer** from Phnom Penh, Cambodia, dedicated to building innovative, user-centric web applications. With a strong foundation in modern technologies and a creative approach to problem-solving, I transform ideas into seamless, scalable solutions.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=8B5CF6&size=24¢er=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Cambodia;Building+Innovative+Web+Solutions" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/hoirna/count.svg" alt="Profile views" />
-</p>
 
 ## 🌟 About Me
 
@@ -87,16 +80,6 @@ I see coding as a blend of art and engineering, where creativity meets precision
 - **Bachelor of English** | Panha Chiet University, Cambodia | 2021 - 2024  
   - Strengthened communication skills, enabling effective collaboration in global teams.
 
-
-## 🌍 Contributions & Community
-
-I’m committed to giving back to the tech community through knowledge-sharing and collaboration:  
-- **Open-Source Contributions**: Contributed UI enhancements to [Project Name, e.g., an open-source CMS].  
-- **Cambodia Tech Meetups**: Active participant and occasional speaker at local developer events.  
-- **Mentorship**: Guiding junior developers through Discord and local workshops in Phnom Penh.  
-
-*Replace placeholders with your actual contributions or remove if not applicable.*
-
 ## 📚 Current Learning Journey
 
 I’m continuously expanding my skill set to stay ahead in the tech world:  
@@ -112,12 +95,6 @@ Explore my portfolio of projects showcasing my full-stack expertise:
 - **Company Website for AI FARM Co., Ltd**: A responsive website built with Vue 3, Tailwind CSS, Node.js, and Directus, leveraging a headless CMS for dynamic content.  
 
 *Replace placeholder with your actual project details or add more projects.*
-
-## 📬 References
-
-Available upon request:  
-- **Mr. Rithea Sum**, Technical Advisor, AI FARM Co., Ltd | [sum.rithea@airarm.dev](mailto:sum.rithea@airarm.dev) 
-- **Mr. Chim Bunthoeurn**, Lecturer, Royal University of Phnom Penh | [chim.bunthoeurn@rup.edu.kh](mailto:chim.bunthoeurn@rup.edu.kh)
 
 ## 📫 Connect with Me
 
