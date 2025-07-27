@@ -87,12 +87,6 @@ I see coding as a blend of art and engineering, where creativity meets precision
 - **Bachelor of English** | Panha Chiet University, Cambodia | 2021 - 2024  
   - Strengthened communication skills, enabling effective collaboration in global teams.
 
-## 🏆 Certifications
-
-- **Full Stack Web Development** | [Issuing Organization, e.g., Coursera, Udemy] | [Year]  
-- **JavaScript Algorithms and Data Structures** | [Issuing Organization, e.g., freeCodeCamp] | [Year]  
-
-*Replace placeholders with your actual certifications or remove if not applicable.*
 
 ## 🌍 Contributions & Community
 
