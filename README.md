@@ -60,13 +60,13 @@ I see coding as a blend of art and engineering, where creativity meets precision
 
 ## 💼 Professional Experience
 
-- **Junior Web Developer** | AI FARM Co., Ltd, Phnom Penh | March 2025 - Present  
+- **Junior Web Developer** | AI FARM Co., Ltd, Phnom Penh | December 2024 - July 2025  
   - Developed and maintained responsive web applications using Next.js and TypeScript.  
   - Implemented APIs with Directus and PostgreSQL for dynamic content delivery.  
   - Enhanced UI/UX, improving user engagement through intuitive designs.  
   - Optimized application performance, reducing load times by 40%.  
 
-- **Web Development Intern** | AI FARM Co., Ltd, Phnom Penh | December 2024 - March 2025  
+- **Web Development Intern** | AI FARM Co., Ltd, Phnom Penh | August 2024 - November 2024  
   - Built a small-scale company website using Vue 3, Tailwind CSS, Node.js, and Directus.  
   - Utilized Directus as a headless CMS to structure and deliver content to the frontend.  
   - Gained hands-on experience in modern web development workflows and tools.
